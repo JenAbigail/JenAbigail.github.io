@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(30, 99, 121);
+}
+.col{
+    border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	margin-top: 20px;
+	background-color: rgb(197, 197, 197);
+}
+.col2 div a {
+	width: 100%;
+}
+.col2 h1 {
+	margin-top: 20px;
+}
+.container{
+    margin-top:20px;
+    border-radius: 20px;
+}
+    .row div {
+        width: 100%;
+    }
+.row {
+        display: flex;
+        justify-content: center;
+    }
+ .img-fluid {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .img-fluid-2 {
+	margin-top: 20px;
+	margin-bottom: -30px;
+	border-radius: 50%;
+}
+.nav-link {
+	color: honeydew;
+	padding-right: 100px;
+}
+
+.nav-link:hover {
+	color: black;
+}
+
+
+    
+  
